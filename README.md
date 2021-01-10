@@ -18,6 +18,7 @@ I am a graduate student studying **computer architecture**.
 ![Generic badge](https://img.shields.io/badge/-Python-FFE873?logo=python)
 ![Generic badge](https://img.shields.io/badge/-CUDA-1A1918?logo=NVIDIA)
 ![Generic badge](https://img.shields.io/badge/-PyTorch-646464?logo=pytorch)
+![Generic badge](https://img.shields.io/badge/-Vim-019733?logo=vim)
 
 <!--
 **jinhachung/jinhachung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
