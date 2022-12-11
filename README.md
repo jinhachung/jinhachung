@@ -2,7 +2,7 @@
 
 ---
 I am a graduate student studying **computer architecture**.  
-:seedling: I'm currently learning about **building cycle-level simulators**, **general CPU/GPU architectures**, and **computer systems**.  
+:seedling: I'm currently learning about **general CPU/GPU architectures**, and **scale-out computer systems**.  
 :books: I want to learn about **machine learning (ML) algorithms** and **ML accelerators**.  
 :video_game: I am a casual [Old School RuneScape](https://oldschool.runescape.com/) player.  
 
